@@ -18,7 +18,7 @@ A todo like remind me application. Made it to learn about zod, react-hook-form a
 
 <br/>
 
-## ThemeSwitcher:
+## Theme Provider and Switcher:
 
 1. Add next-theme
 2. Create a ThemeProvider
