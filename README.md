@@ -15,3 +15,16 @@ A todo like remind me application. Made it to learn about zod, react-hook-form a
 
 1. Add the default component by clerk in the sign-in and sign-up catch all folder.
 2. Add the env.
+
+<br/>
+
+## ThemeSwitcher:
+
+1. Add next-theme
+2. Create a ThemeProvider
+3. Wrap Everything inside body with ThemeProvider
+4. Create a ThemeSwitcher bar on Navbar:
+   1. On mount set the mount true and while not mount, return null. This will solve the hydration error.
+   2. Get the theme from useTheme of next-theme and set the Theme according to the tab.
+
+<br/>
