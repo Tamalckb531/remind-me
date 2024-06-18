@@ -28,3 +28,8 @@ A todo like remind me application. Made it to learn about zod, react-hook-form a
    2. Get the theme from useTheme of next-theme and set the Theme according to the tab.
 
 <br/>
+
+## Dashboard page welcome:
+
+1. currentUser from clerk give the data of current user.
+2. Suspense fallback is used to show skeleton while loading.
